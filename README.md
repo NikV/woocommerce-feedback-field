@@ -1,3 +1,3 @@
 # woocommerce-feedback-field
 
-A simple WooCommerce plugin coming soon.
+A simple WooCommerce extension coming soon.
