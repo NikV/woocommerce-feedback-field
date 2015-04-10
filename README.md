@@ -1,3 +1,3 @@
-# woocommerce-feedback-field
+# WooCommerce Feedback Field
 
-A simple WooCommerce extension coming soon.
+A simple extension that allows a buyer to rate the purchase experience on checkout.
