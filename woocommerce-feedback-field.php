@@ -1,6 +1,7 @@
 <?php
 /**
  * Plugin Name: WooCommerce purchase experience feedback field
+ * Description: Needs rewrite
  */
 
 // Hook in
